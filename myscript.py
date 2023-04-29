@@ -4,3 +4,4 @@ kjbsc
 fkjfhn
 
 myscript
+local cosde
